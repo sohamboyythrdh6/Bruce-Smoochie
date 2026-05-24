@@ -3,7 +3,7 @@ hey my name is soham karan and I am from India. i made a simmiler thing like fli
 
 
 
-                                                                     !warning!
+                                             !warning!
    this project is just for education and learning purpose so please dont misuse this project.       
 
    <img width="496" height="339" alt="Screenshot 2026-05-24 213813" src="https://github.com/user-attachments/assets/78c83ee4-e723-446e-bedd-637a8b5ea46b" /> <img width="489" height="394" alt="Screenshot 2026-05-24 213912" src="https://github.com/user-attachments/assets/db527b1c-644c-4863-905c-ca486ccbdddf" /> <img width="674" height="393" alt="Screenshot 2026-05-24 214158" src="https://github.com/user-attachments/assets/c91e206e-b889-4aa1-b540-eb448f2cfd14" /> 
