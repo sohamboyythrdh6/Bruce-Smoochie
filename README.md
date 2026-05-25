@@ -6,4 +6,7 @@ hey my name is soham karan and I am from India. i made a simmiler thing like fli
                                              !warning!
    this project is just for education and learning purpose so please dont misuse this project.       
 
-   <img width="496" height="339" alt="Screenshot 2026-05-24 213813" src="https://github.com/user-attachments/assets/78c83ee4-e723-446e-bedd-637a8b5ea46b" /> <img width="489" height="394" alt="Screenshot 2026-05-24 213912" src="https://github.com/user-attachments/assets/db527b1c-644c-4863-905c-ca486ccbdddf" /> <img width="674" height="393" alt="Screenshot 2026-05-24 214158" src="https://github.com/user-attachments/assets/c91e206e-b889-4aa1-b540-eb448f2cfd14" /> 
+  <img width="305" height="385" alt="Screenshot 2026-05-25 223942" src="https://github.com/user-attachments/assets/9148a914-763c-469c-9650-1c1c19de09df" />
+<img width="365" height="424" alt="Screenshot 2026-05-25 223907" src="https://github.com/user-attachments/assets/8dc55157-2fa9-45f4-9741-800f81ba025d" />
+<img width="368" height="418" alt="Screenshot 2026-05-25 223922" src="https://github.com/user-attachments/assets/c8ac07da-2d56-4753-ad6c-e6ba0524931a" />
+ <img width="674" height="393" alt="Screenshot 2026-05-24 214158" src="https://github.com/user-attachments/assets/c91e206e-b889-4aa1-b540-eb448f2cfd14" /> 
