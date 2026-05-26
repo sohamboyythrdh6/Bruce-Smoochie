@@ -1,1 +1,5 @@
 item,quantity,link,price(Dollar),description
+ESP32-S3 N16R8,1,https://makerbazar.in/products/esp32-s3-wroom-1-development-board-copy?variant=48942521352432,10.44,main controler of this project
+1.3inch led tft display,1,https://robu.in/product/st7789-driver-spi-interface-display-module/,3.76,for visual settings
+Micro SD Card Reader Module,1,https://robu.in/product/mini-micro-sd-card-reader-module/,0.25,for read save codes from sd card
+8gb micro sd card,1,,,for save codes
