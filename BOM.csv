@@ -2,4 +2,11 @@ item,quantity,link,price(Dollar),description
 ESP32-S3 N16R8,1,https://makerbazar.in/products/esp32-s3-wroom-1-development-board-copy?variant=48942521352432,10.44,main controler of this project
 1.3inch led tft display,1,https://robu.in/product/st7789-driver-spi-interface-display-module/,3.76,for visual settings
 Micro SD Card Reader Module,1,https://robu.in/product/mini-micro-sd-card-reader-module/,0.25,for read save codes from sd card
-8gb micro sd card,1,,,for save codes
+8gb micro sd card,1,bought from local stors,,for save codes
+NEO GPS Module,1,https://makerbazar.in/products/neo-gps-module-neo-m8n-neo-7m-neo-6m?variant=48251052622064,2.91,for trace live location
+CC1101 RF Module,1,https://quartzcomponents.com/products/cc1101-sma-antenna-wireless-transceiver-module?variant=45714339725546&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=21214248935&gbraid=0AAAAACPPFdPM2Gbe_IvjBKYqx87_yjUo-&gclid=CjwKCAjwrNrQBhBjEiwAoR4VO-2YRATx4zgBbvCyZYitmHxQU9vQZajKeA62IbaEYIy5uMI3PNw8NBoCoWYQAvD_BwE,3.54,for read rf signals
+NRF24L01 Module,1,https://makerbazar.in/products/2-4ghz-nrf24l01-pa-lna-sma-wireless-transceiver-antenna?variant=44824810324208,1.51,for generate rf signals
+PN532 NFC Module,1,https://robu.in/product/pn532-nfc-rfid-read-write-module-v3-kit/,2.97,for read rfid cards
+IR Receiver module,1,https://robu.in/product/infrared-receiver-module-arduino/,0.23,for catch ir signals
+IR Transmitter Sensor Module,1,https://robu.in/product/digital-38khz-infrared-transmitter-module/,0.41,for transmit saved ir signails
+4000mah lipo battery ,1,https://robu.in/product/nova-105080-4000mah-3-7v-micro-lipo-battery-pack/,6.51,for power the flipper
