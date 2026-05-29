@@ -1,6 +1,7 @@
 # Bruce-Smoochie
 hey my name is soham karan and I am from India. i made a simmiler thing like flipper zero which can read rf tags and save it or use it later it also work same witr ir .And it just work as like flipper zero but it cheapper than flipper and you can also able to made by cheaking this repo .I made this project using esp s3 and some other components .ANd this project is powerd by a lipo battery which is charged by tp4506 charging module.
-
+And to program the board you dont need any code insted you need a flash software which is given in my repo called firmware
+and also insted of making a 3d printed case i just use the pcb to create a compact case. You just need to connect the two pcbs using Standoff Spacer Pillars.
 
 
                                              !warning! 
